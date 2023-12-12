@@ -1,4 +1,4 @@
-# Proyectos---C
+# C---Projects
 
 **My C Programming Projects**
 
